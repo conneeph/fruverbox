@@ -55,9 +55,9 @@ $(function () {
                         .append("</button>");
                     $("#success > .alert-danger").append(
                         $("<strong>").text(
-                            "Sorry " +
+                            "Lo sentimos " +
                                 firstName +
-                                ", it seems that my mail server is not responding. Please try again later!"
+                                ", en estos momentos el servidor no se encuentra disponible, comunicate al numero de whatsApp +57 3135374344 y responderemos tus dudas."
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
